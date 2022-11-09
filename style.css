@@ -53,3 +53,23 @@ button{
     border-radius:5px;
     cursor:pointer;
 }
+
+
+.btn-yellow{
+    background:rgb(245, 146, 62);
+    color:#fff;
+}
+
+
+.btn-grey{
+    background:rgb(224, 224, 224);
+    color:#fff;
+}
+
+.btn-equal{
+    background:green;
+}
+
+.btn-clear{
+    background:red;
+}
