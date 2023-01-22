@@ -2,8 +2,8 @@
 <h2> Simple Calculator App </h2>
 <p> A simple calculator app offering a full calculator functionality </p>
 <h2><strong><i><p>Major Languages</p><i></strong></h2>
-<input type="checkbox"><label for="title">HTML</label><br>
-<input type="checkbox"><label for="title">CSS</label><br>
+<li><label for="title">HTML</label></li>
+<li><label for="title">CSS</label></li>
 <input type="checkbox"><label for="title">JAVASCRIPT</label><br>
 <h2>Prerequisites</h2>
 <ul>
