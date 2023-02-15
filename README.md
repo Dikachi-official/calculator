@@ -4,7 +4,7 @@
 <h2><strong><i><p>Major Languages</p><i></strong></h2>
 <li><label for="title">HTML</label></li>
 <li><label for="title">CSS</label></li>
-<input type="checkbox"><label for="title">JAVASCRIPT</label><br>
+<li>JAVASCRIPT</li>
 <h2>Prerequisites</h2>
 <ul>
 <li> A web Browser (like Google Chrome...)</li>
